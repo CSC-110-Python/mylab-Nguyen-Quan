@@ -1,0 +1,4 @@
+Quan Nguyen,21,9.5,8.6,9.8
+Jane Smith,22,6.2,7.4,8.5
+Tony Stark,18,10,1,9
+Thomas Edison, 30,1,10,10
